@@ -82,10 +82,12 @@ Publish the website in the LocalHost.
                         History<i></h1>
                 <p style="text-align: center">Step into the rich tapestry of coffee's journey through time and culture
                     in "Brewed Culture."</p>
-                    <img style="align-items: center;border-radius: 10px;height: 200px; width: 200px;margin: 30px;" src="./Screenshot 2024-05-06 201716.png">
+                    <img style="align-items: center;border-radius: 10px;height: 200px; width: 200px;margin: 30px;" src="![Screenshot 2024-05-06 201716](https://github.com/dhinesh87/cover/assets/146917182/4975a229-f09e-46c7-8371-b9adabcb6970)
+">
                 <div style="display: flex;justify-content: space-between;font-size:25px;color:wheat;">
                     <h3 style="margin-top:15%;">Second Edition</h3>
-                    <img src="./IMG-20230808-WA0002.jpg" width="100px" height="100px" style="margin-top:7%;">
+                    <img src="![IMG-20230808-WA0002](https://github.com/dhinesh87/cover/assets/146917182/6fd4146a-df4d-4f67-b702-9909122bb221)
+" width="100px" height="100px" style="margin-top:7%;">
                 </div>
                 <hr>
                 <div style="display: flex;justify-content: space-between;font-size:25px;color:rgb(245, 179, 209)">
